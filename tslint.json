@@ -6,7 +6,7 @@
     "interface-name": [true, "never-prefix"],
     "curly": false,
     "object-literal-sort-keys": false,
-    "one-variable-per-declaration": false,
+    "one-variable-per-declaration": true,
     "ordered-imports": false,
     "unified-signatures": false,
     "trailing-comma": true
